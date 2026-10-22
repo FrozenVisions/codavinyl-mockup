@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" role="img" aria-label="Coda Vinyl Record Shop">
+<defs>
+<linearGradient id="cvp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c2832"/><stop offset=".5" stop-color="#121014"/><stop offset="1" stop-color="#24202A"/></linearGradient>
+<linearGradient id="cvs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="cvl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#F2F0F0"/><stop offset="1" stop-color="#bdb8bc"/></linearGradient>
+<filter id="cvb" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="-0.6" stdDeviation="0" flood-color="#fff" flood-opacity=".7"/><feDropShadow dx="1" dy="2.2" stdDeviation="1.2" flood-color="#000" flood-opacity=".85"/></filter>
+</defs>
+<rect x="1" y="1" width="358" height="118" rx="6" fill="url(#cvp)" stroke="#3a3540"/>
+<path d="M7 7h346v40C260 62 120 30 7 52z" fill="url(#cvs)"/>
+<g filter="url(#cvb)" fill="url(#cvl)" font-family="'Bebas Neue',Oswald,Impact,'Arial Narrow',sans-serif">
+<g transform="skewX(-6)"><text x="34" y="74" font-size="72" letter-spacing="1">CO</text><text x="104" y="74" font-size="72" letter-spacing="1">DA</text>
+<rect x="96" y="18" width="3" height="58" transform="skewX(-16)" transform-origin="97 47"/></g>
+<text x="26" y="104" font-size="27" font-weight="700" letter-spacing="2">VINYL</text>
+<g><circle cx="102" cy="95" r="7.5"/><circle cx="121" cy="95" r="7.5"/><circle cx="140" cy="95" r="7.5"/></g>
+<text x="176" y="72" font-size="34" letter-spacing="3.5">RECORD SHOP</text>
+</g>
+<g fill="#121014"><circle cx="102" cy="95" r="1.4"/><circle cx="121" cy="95" r="1.4"/><circle cx="140" cy="95" r="1.4"/></g>
+<rect x="176" y="84" width="160" height="2.5" fill="#8B2A2A"/>
+</svg>
