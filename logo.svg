@@ -8,8 +8,8 @@
 <rect x="1" y="1" width="358" height="118" rx="6" fill="url(#cvp)" stroke="#3a3540"/>
 <path d="M7 7h346v40C260 62 120 30 7 52z" fill="url(#cvs)"/>
 <g filter="url(#cvb)" fill="url(#cvl)" font-family="'Bebas Neue',Oswald,Impact,'Arial Narrow',sans-serif">
-<g transform="skewX(-6)"><text x="34" y="74" font-size="72" letter-spacing="1">CO</text><text x="104" y="74" font-size="72" letter-spacing="1">DA</text>
-<rect x="96" y="18" width="3" height="58" transform="skewX(-16)" transform-origin="97 47"/></g>
+<g transform="skewX(-6)"><text x="34" y="74" font-size="72" letter-spacing="1">CO</text><text x="94.5" y="74" font-size="72" letter-spacing="1">DA</text>
+<rect x="92" y="23" width="2.4" height="51" fill="#a33434"/></g>
 <text x="26" y="104" font-size="27" font-weight="700" letter-spacing="2">VINYL</text>
 <g><circle cx="102" cy="95" r="7.5"/><circle cx="121" cy="95" r="7.5"/><circle cx="140" cy="95" r="7.5"/></g>
 <text x="176" y="72" font-size="34" letter-spacing="3.5">RECORD SHOP</text>
